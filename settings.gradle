@@ -1,0 +1,2 @@
+rootProject.name='FirebaseEmulatorSuite'
+include ':app'
