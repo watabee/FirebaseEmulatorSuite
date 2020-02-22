@@ -14,3 +14,6 @@ firebase emulators:start --only firestore
 
 Firebase コンソールから `google-services.json` をダウンロードして、app ディレクトリの下に配置する。
 
+## 参考
+
+- https://firebase.google.com/docs/emulator-suite/connect_and_prototype
